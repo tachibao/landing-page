@@ -120,11 +120,11 @@ body {
 .contentInfo {
     padding-top: 80px;
     padding-bottom: 80px;
-    height: calc(100vh - 72px);
+    // height: calc(100vh - 72px);
 
-    @include sm {
-        height: calc(100vh - 56px);
-    }
+    // @include sm {
+    //     height: calc(100vh - 56px);
+    // }
 
     @include sm {
         padding-top: 56px;
